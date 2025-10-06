@@ -5,6 +5,11 @@ div {
   border-radius: 20px;
   border: #814d58 solid 5px;
 }
+div:hover {
+  border-radius: 50px;
+  background: #814d58;
+  box-shadow: 20px 20px 60px #c8b2b2, -20px -20px 60px #ffffff;
+}
 h1 {
   color: #f5f5f5;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
